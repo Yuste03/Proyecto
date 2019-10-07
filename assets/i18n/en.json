@@ -1,0 +1,18 @@
+{
+    "main": {
+        "language": "Language",
+        "spanish": "Spanish",
+        "english": "English",
+        "input_placeholder": "Introduce text here",
+        "introduced_text": "Introduced text is: {{ text }}"
+    },
+
+    "login": {
+        "login": "Login",
+        "signIn": "Sign In to your account",
+        "username": "Username",
+        "password": "Password",
+        "forgotPass": "Forgot password?",
+        "wrongPass": "Contraseña y/o usuario incorrectos. Por favor, vuelve a intentarlo."
+    }
+}

@@ -15,7 +15,7 @@
         "username": "Username",
         "password": "Password",
         "forgotPass": "Forgot password?",
-        "wrongPass": "Contraseña y/o usuario incorrectos. Por favor, vuelve a intentarlo."
+        "wrongPass": "Incorrect password and/or user. Please, try again."
     },
 
     "dashboard": {
@@ -43,14 +43,14 @@
         "capgemini": "Capgemini",
         "consultant": "Junior Consultant - Financial Services",
         "functionalities":{
-            "cocaCola1": "Seguimiento de stocks, predicción de roturas y asegurar su disponibilidad en tiempo, cantidad y calidad",
-            "cocaCola2": "Gestionar y asegurar camiones intercompany para la distribución de producto",
-            "cocaCola3": "Realizar informes diarios para el control de incidencias (roturas, escasez, vida útil) de producto a varios días vista",
-            "cocaCola4": "Revisión de oleadas",
-            "henkel1": "Proyecto ATA",
-            "henkel2": "Colaborar en los procesos de la planta de producción de Henkel",
-            "henkel3": "Revisar y documentar información relevante de producción enfocado principalmente a Raw Materials y Packaging",
-            "henkel4": "Contacto con proveedores a nivel internacional",
+            "cocaCola1": "Stock tracking, stock-outs prediction and ensure its availability in time, quantity and quality",
+            "cocaCola2": "Manage and ensure intercompany trucks for product distribution",
+            "cocaCola3": "Perform daily incident control reports (stock-outs, shortage, shelf life) of products",
+            "cocaCola4": "Waves management",
+            "henkel1": "ATA Project (Adhesives Transportation Aerospace)",
+            "henkel2": "Collaborate in the processes of the Henkel production plant",
+            "henkel3": "Review and document relevant production information focused primarily on Raw Materials and Packaging",
+            "henkel4": "Contact with international suppliers",
             "henkel5": "Ensayos de testeo, verificación y validación de producto aeroespacial en laboratorio",
             "dsc": "DSC - Differential scanning calorimetry",
             "ftir": "FTIR - Fourier-transform infrared spectroscopy",

@@ -102,7 +102,7 @@
         "freelance": "Autónomo",
         "mathClasses": "Clases particulares de Matemáticas – Nivel ESO y Bachillerato",
         "chemistryClasses": "Clases particulares de Química – Nivel Bachillerato",
-        "certifications": "CERTIFICACIONES",
+        "certifications": "CERTIFICADOS",
         "certif":{
             "solidWorks": "Sistemas CAD: SolidWorks",
             "autoCad": "Sistemas CAD: AutoCAD",
@@ -134,7 +134,7 @@
         },
         "aboutMe": "SOBRE MI",
         "description": "Apasionado y curioso. Mentalidad abierta para cualquier situación de aprendizaje.",
-        "drivingLicense": "Licencia de conducir",
+        "drivingLicense": "Carnet de conducir",
         "downloadCv": "DESCARGAR CV",
         "downloadtip": "Clique aquí para descargar"
     }

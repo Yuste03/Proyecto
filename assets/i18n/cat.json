@@ -102,7 +102,7 @@
         "freelance": "Autònom",
         "mathClasses": "Classes particulars de Matemàtiques – Nivell ESO i Batxillerat",
         "chemistryClasses": "Classes particulars de Química – Nivell Batxillerat",
-        "certifications": "CERTIFICACIONS",
+        "certifications": "CERTIFICATS",
         "certif":{
             "solidWorks": "Sistemes CAD: SolidWorks",
             "autoCad": "Sistemes CAD: AutoCAD",
@@ -113,7 +113,7 @@
             "blackBelt": "Cinturó Negre 1er DAN en Karate",
             "geosAcademy": "GEOS English Academy London"
         },
-        "languages": "IDIOMAE",
+        "languages": "IDIOMES",
         "writing": "Escrit",
         "reading": "Lectura",
         "speaking": "Oral",
@@ -134,7 +134,7 @@
         },
         "aboutMe": "SOBRE MI",
         "description": "Apassionat i curiós. Mentalitat oberta per qualsevol situació d'aprenentatge.",
-        "drivingLicense": "Llicencia de conduir",
+        "drivingLicense": "Carnet de conduir",
         "downloadCv": "DESCARREGAR CV",
         "downloadtip": "CliquI aquí per descarregar"
     }

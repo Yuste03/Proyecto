@@ -129,7 +129,7 @@
             "backend": "JAVA (JDK8), Spring Boot, SpringMVC, Python",
             "frontend": "Angular8, AngularJS, React, Vue.js",
             "webDessign": "HTML, JavaScript, CSS3, PHP, Wordpress",
-            "chemicalsoft": "Matlab, Octave, Minitab, Aspen Hysys",
+            "chemicalSoft": "Matlab, Octave, Minitab, Aspen Hysys",
             "graphicDessign": "Adobe Photoshop CC, Gimp"
         },
         "aboutMe": "SOBRE MI",

@@ -51,14 +51,14 @@
             "henkel2": "Collaborate in the processes of the Henkel production plant",
             "henkel3": "Review and document relevant production information focused primarily on Raw Materials and Packaging",
             "henkel4": "Contact with international suppliers",
-            "henkel5": "Ensayos de testeo, verificación y validación de producto aeroespacial en laboratorio",
+            "henkel5": "Testing, verification and validation trials of aerospace product in laboratory",
             "dsc": "DSC - Differential scanning calorimetry",
             "ftir": "FTIR - Fourier-transform infrared spectroscopy",
             "nir": "NIR - Near-infrared spectroscopy",
-            "rheo": "Reómetro",
-            "capgemini1": "Participación en el desarrollo de una aplicación web utilizando tecnología Wordpress + PHP embedido",
-            "capgemini2": "Participación en el desarrollo de una aplicación para la gestión de inmuebles tanto a nivel FrontEnd como a nivel BackEnd. Desarrollando las diferentes capas de negocio y sus respectivos servicios REST utilizando las siguientes tecnologías:",
-            "capgemini3": "Participación en el desarrollo desde 0 de una extranet tanto a nivel FrontEnd como a nivel BackEnd utilizando las siguientes tecnologías:"
+            "rheo": "Rheometer",
+            "capgemini1": "Participation in a web application development using Wordpress + PHP embedded technology",
+            "capgemini2": "Participation in a web application development focused on the properties management at both FrontEnd and BackEnd levels. Developing the different business layers and their respectives REST services using the following technologies:",
+            "capgemini3": "Participation in an extranet development from the beginning at both FrontEnd and BackEnd levels using the following technologies:"
         },
         "tech":{
             "sapErp": "SAP ERP",
@@ -129,7 +129,7 @@
             "backend": "JAVA (JDK8), Spring Boot, SpringMVC, Python",
             "frontend": "Angular8, AngularJS, React, Vue.js",
             "webDessign": "HTML, JavaScript, CSS3, PHP, Wordpress",
-            "chemicalsoft": "Matlab, Octave, Minitab, Aspen Hysys",
+            "chemicalSoft": "Matlab, Octave, Minitab, Aspen Hysys",
             "graphicDessign": "Adobe Photoshop CC, Gimp"
         },
         "aboutMe": "ABOUT MYSELF",
